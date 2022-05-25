@@ -1,3 +1,4 @@
+![Title](head_exo_library.png)
 # Start learning and programming on Exohood's protocol
 
 ## Table of contents

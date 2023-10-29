@@ -1,5 +1,5 @@
 ![Title](head_exo_li.png)
-# Start learning and programming on Exohood's protocol
+# Start learning and programming at Exohood's Labs
 
 ## Table of contents
 

@@ -1,18 +1,26 @@
 ![Title](head_exo_li.png)
 # Start learning and programming at Exohood's Labs
 
+A curated collection of publicly accessible learning resources in computer science, software engineering, mathematics, artificial intelligence, and related technical fields. The collection includes books, tutorials, documentation, and practical exercises from their respective authors and publishers.
+
+**Exohood Labs links to these resources for educational reference. Their content remains the property of its respective creators and is subject to each resource's own terms and license. Public access does not automatically authorize copying or redistribution.**
+
 ## Table of contents
 
 * [AI](#ai)
   * [Machine Learning](#machine-learning)
+  * [Large Language Models and AI Agents](#large-language-models-and-ai-agents)
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
 * [Command Line and Tools](#command-line-and-tools)
+* [Cloud and DevOps](#cloud-and-devops)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
   * [Ray Tracing](#ray-tracing)
 * [Computer Networks and Network Programming](#computer-networks-and-network-programming)
+* [Cybersecurity and Secure Development](#cybersecurity-and-secure-development)
 * [Cryptography](#cryptography)
+* [Blockchain and Smart Contracts](#blockchain-and-smart-contracts)
 * [Databases](#databases)
 * [Design Patterns](#design-patterns)
 * [Distributed Systems](#distributed-systems)
@@ -28,6 +36,7 @@
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
 * [Physics](#physics)
+* [Quantum Computing](#quantum-computing)
 * [Programming Languages](#programming-languages)
   * [Assembly](#assembly)
   * [Basic](#basic)
@@ -58,6 +67,7 @@
 * [Web programming](#web-programming)
 * [Other](#other)
 * [Other lists](#other-lists)
+* [Contributing Resources](#contributing-resources)
 
 ## AI
 
@@ -82,6 +92,16 @@
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
 * [The Hundred Page Machine Learning Book](http://themlbook.com/wiki) by *Andriy Burkov*
+
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) by *Google* — interactive lessons, visualizations, and practical exercises.
+
+* [PyTorch Beginner Tutorials](https://docs.pytorch.org/tutorials/intro.html) by *PyTorch contributors* — practical introductions to tensors, neural networks, and training workflows.
+
+### Large Language Models and AI Agents
+
+* [LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) by *Hugging Face* — free lessons on transformers, tokenizers, natural language processing, and language models.
+
+* [AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) by *Hugging Face* — a free course on building, testing, and evaluating AI agents.
 
 ### Computer Games AI
 
@@ -120,6 +140,14 @@
 * [How I'm still not using GUIs: A guide to the terminal](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) by *Lucas Fernandes da Costa*
 
 * [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) by *Flavio Copes*
+
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) by *MIT contributors* — command-line tools, version control, debugging, and practical computing workflows.
+
+## Cloud and DevOps
+
+* [Docker: Get Started](https://docs.docker.com/get-started/) by *Docker* — container basics and guided application workflows.
+
+* [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) by *Kubernetes contributors* — deploying, scaling, and updating containerized applications.
 
 ## Compilers and Interpreters
 
@@ -216,11 +244,35 @@
 
 * [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
 
+## Cybersecurity and Secure Development
+
+* [Web Security Testing Guide](https://owasp.org/projects/web-security-testing-guide) by *OWASP* — methodologies for assessing web application and service security.
+
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) by *OWASP* — practical guidance for building and maintaining secure applications.
+
+* [Web Security Academy](https://portswigger.net/web-security) by *PortSwigger* — free interactive lessons and labs on common web security vulnerabilities.
+
 ## Cryptography
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us) by *Dan Boneh* and *Victor Shoup*
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
+
+* [CryptoHack](https://cryptohack.org/) — free interactive cryptography exercises and challenges.
+
+* [The Cryptopals Crypto Challenges](https://cryptopals.com/) — practical exercises exploring cryptographic concepts and implementation weaknesses.
+
+## Blockchain and Smart Contracts
+
+* [Ethereum Developer Documentation](https://ethereum.org/developers/docs/) by *ethereum.org contributors* — blockchain fundamentals, accounts, transactions, smart contracts, and development tools.
+
+* [Solidity by Example](https://solidity-by-example.org/) — approachable Solidity examples covering contracts, testing, and decentralized applications.
+
+* [OpenZeppelin Contracts Documentation](https://docs.openzeppelin.com/contracts/5.x) by *OpenZeppelin* — token standards, permissions, and secure smart contract engineering.
+
+* [Foundry Documentation](https://www.getfoundry.sh/) by *Foundry contributors* — Ethereum smart contract development, testing, debugging, and deployment tools.
+
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) by *Andreas M. Antonopoulos, Gavin Wood, and contributors* — an openly available textbook on Ethereum and smart contract development; consult the publisher's applicable content license.
 
 ## Databases
 
@@ -360,6 +412,12 @@ in 5 volumes.
 * [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html), Second Edition by *[Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and [Jack Wisdom](https://en.wikipedia.org/wiki/Jack_Wisdom)*
 
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
+
+## Quantum Computing
+
+* [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en) by *IBM Quantum* — introductory and advanced courses on quantum information and Qiskit.
+
+* [Microsoft Quantum Katas](https://quantum.microsoft.com/en-us/tools/quantum-katas) by *Microsoft Quantum* — guided quantum computing programming exercises.
 
 ## Programming languages
 
@@ -503,6 +561,10 @@ in 5 volumes.
 
 * [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead)
 
+* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) by *Steve Klabnik, Carol Nichols, Chris Krycho, and Rust contributors* — the official Rust book.
+
+* [Rustlings](https://github.com/rust-lang/rustlings) by *Rust contributors* — small practical exercises for learning Rust syntax and concepts.
+
 ### Scheme
 
 * [Structure and Interpretation of Computer Programs](https://xuanji.appspot.com/isicp/index.html) by *Harold Abelson and Gerald Jay Sussman with Julie Sussman*
@@ -580,3 +642,16 @@ in 5 volumes.
 * [The Nature of Code](https://natureofcode.com) a book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com) by *Steven W. Smith, Ph.D.*
+
+
+## Contributing Resources
+
+This collection can grow through carefully selected educational links, corrections, and updated references. Resource suggestions are welcome through repository issues or pull requests when enabled by the repository maintainers.
+
+Please include a clear title, an official or author-maintained URL, the creator or publisher, and a short description of what the resource teaches. Prefer freely accessible, substantive educational material over promotional pages.
+
+Avoid duplicate entries, unauthorized copies of copyrighted books, misleading claims about open-source licensing, and links to pirated material. External resources remain subject to their own copyright notices, terms, and licenses.
+
+Submissions may be reviewed for relevance, accessibility, accuracy, and link quality. Publication of a link does not imply endorsement of the author or affiliation with Exohood Labs.
+
+This public educational collection is separate from Exohood Labs proprietary research, models, internal applications, and commercial systems.
